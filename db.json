@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "title": "Don't save these hoes",
+      "complete": true
+    },
+    {
+      "title": "These hoes wild bruh",
+      "complete": false
+    },
+    {
+      "title": "Normal is boring",
+      "complete": false
+    },
+    {
+      "title": "OKurrrrrr",
+      "complete": true
+    }
+  ]
+}
